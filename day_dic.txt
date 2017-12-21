@@ -1,0 +1,7 @@
+sunday;chinese:Xingqi ri,german:Sonntag,franch:dimanche
+monday;chinese:Xingqi yi,german:Montag,franch:Lundi,hebrew:sheni,spanish:lunes
+tuesday;chinese:Xingqi ir,german:Dienstag,spanish:martes,hebrew:shlishi
+wednesday;hebrew:reviei
+thursday;hebrew:hamishi
+friday;hebrew:shishi
+saturday;hebrew:shabat

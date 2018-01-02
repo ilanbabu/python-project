@@ -1,1 +1,1 @@
-haifa;hadera;netanya;eilat;nahariya
+haifa;hadera;netanya;eilat;nahariya;telaviv
